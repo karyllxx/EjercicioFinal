@@ -19,3 +19,4 @@ El programa mostrará en la terminal:
 El tablero resuelto.
 El tiempo de ejecución.
 
+En dado caso de no poder ejecutar, se puede ejecutar en Google Colabn: https://colab.research.google.com/drive/1X3N2lKuC9GisuMod6ltn5Ic1QQpeYnL8?usp=sharing
